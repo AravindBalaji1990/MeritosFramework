@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-25T18:37:57 GST" name="IndeedSuite" finished-at="2021-06-25T18:38:07 GST" duration-ms="9320">
+    <groups>
+    </groups>
+    <test started-at="2021-06-25T18:37:57 GST" name="Test" finished-at="2021-06-25T18:38:07 GST" duration-ms="9320">
+      <class name="testcases.Indeed">
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:testcases.Indeed@fa36558]" started-at="2021-06-25T18:37:57 GST" name="beforeMethod" finished-at="2021-06-25T18:38:00 GST" duration-ms="2635" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="indeedTestcase()[pri:0, instance:testcases.Indeed@fa36558]" started-at="2021-06-25T18:38:00 GST" name="indeedTestcase" finished-at="2021-06-25T18:38:06 GST" duration-ms="5680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- indeedTestcase -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testcases.Indeed@fa36558]" started-at="2021-06-25T18:38:06 GST" name="afterMethod" finished-at="2021-06-25T18:38:07 GST" duration-ms="954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testcases.Indeed -->
+    </test> <!-- Test -->
+  </suite> <!-- IndeedSuite -->
+</testng-results>

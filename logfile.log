@@ -1,0 +1,84 @@
+2021-06-24 02:42:51,683 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The driver executable does not exist: D:\SeleniumPrograms_Frameworks\MeritosAssignmentIndeed\src\main\resources\browsers\chromedriver.exe\chromedriver.exe 
+2021-06-24 02:43:37,427 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The driver executable does not exist: D:\SeleniumPrograms_Frameworks\MeritosAssignmentIndeed\src\main\resources\browsers\chromedriver.exe\chromedriver.exe 
+2021-06-24 02:46:01,597 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The driver executable does not exist: D:\SeleniumPrograms_Frameworks\MeritosAssignmentIndeed\src\main\resources\browsers\chromedriver.exe\chromedriver.exe 
+2021-06-24 02:49:10,545 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2021-06-24 02:51:20,049 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2021-06-24 02:51:21,956 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (2f438e0c4f37cd77123063c640e64462)] -> xpath: //input[@id='text-input-what' and @name = 'q']] 
+2021-06-24 02:51:22,221 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (2f438e0c4f37cd77123063c640e64462)] -> xpath: //input[@id='text-input-what' and @name = 'q']] 
+2021-06-24 02:51:22,399 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (2f438e0c4f37cd77123063c640e64462)] -> xpath: //input[@id='text-input-where']] 
+2021-06-24 02:51:22,837 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (2f438e0c4f37cd77123063c640e64462)] -> xpath: //input[@id='text-input-where']] 
+2021-06-24 03:01:59,931 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2021-06-24 03:02:01,891 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (96699db5fd558e72ec046829c42d3322)] -> xpath: //input[@id='text-input-what' and @name = 'q']] 
+2021-06-24 03:02:02,182 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (96699db5fd558e72ec046829c42d3322)] -> xpath: //input[@id='text-input-what' and @name = 'q']] 
+2021-06-24 03:02:02,320 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (96699db5fd558e72ec046829c42d3322)] -> xpath: //input[@id='text-input-where']] 
+2021-06-24 03:02:02,633 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (96699db5fd558e72ec046829c42d3322)] -> xpath: //input[@id='text-input-where']] 
+2021-06-24 03:02:02,814 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (96699db5fd558e72ec046829c42d3322)] -> xpath: //button[contains(text(),'Find jobs') and @type='submit']] 
+2021-06-24 03:05:46,786 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2021-06-24 03:05:49,063 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (cbe4fca78f7e7bbef668c1d316640ac4)] -> xpath: //input[@id='text-input-what' and @name = 'q']] 
+2021-06-24 03:05:49,472 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (cbe4fca78f7e7bbef668c1d316640ac4)] -> xpath: //input[@id='text-input-what' and @name = 'q']] 
+2021-06-24 03:05:49,738 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (cbe4fca78f7e7bbef668c1d316640ac4)] -> xpath: //input[@id='text-input-where']] 
+2021-06-24 03:05:50,047 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (cbe4fca78f7e7bbef668c1d316640ac4)] -> xpath: //input[@id='text-input-where']] 
+2021-06-24 03:05:50,177 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (cbe4fca78f7e7bbef668c1d316640ac4)] -> xpath: //button[contains(text(),'Find jobs') and @type='submit']] 
+2021-06-24 03:05:51,913 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (cbe4fca78f7e7bbef668c1d316640ac4)] -> xpath: //h1[@id='jobsInLocation']] 
+2021-06-24 03:05:51,913 INFO  [Log] Page loaded sucess 
+2021-06-24 03:05:52,667 INFO  [Log] the jobs available : Trainee testers 
+2021-06-24 03:05:52,688 INFO  [Log] the jobs available : Tester SE/SSE 
+2021-06-24 03:05:52,711 INFO  [Log] the jobs available : Hiring qa With Selenium, Uft Mainframes Testing || Bangalore 
+2021-06-24 03:05:52,732 INFO  [Log] the jobs available : Software Test Engineer 
+2021-06-24 03:05:52,752 INFO  [Log] the jobs available : IT Testing 
+2021-06-24 03:05:52,773 INFO  [Log] the jobs available : Test Analyst 
+2021-06-24 03:05:52,795 INFO  [Log] the jobs available : Associate Automation Testing Selenium 
+2021-06-24 03:05:52,817 INFO  [Log] the jobs available : C#_Selenium_Test_Automation 
+2021-06-24 03:05:52,839 INFO  [Log] the jobs available : Automation Selenium Tester Core Banking Domain 
+2021-06-24 03:05:52,860 INFO  [Log] the jobs available : Selenium + C# Testing Or C# Developer - C2H 
+2021-06-24 03:05:52,882 INFO  [Log] the jobs available : QA Analyst 3-ProdDev 
+2021-06-24 03:05:52,903 INFO  [Log] the jobs available : Associate QA-UAT Engineer 
+2021-06-24 03:05:52,925 INFO  [Log] the jobs available : QA 
+2021-06-24 03:05:52,948 INFO  [Log] the jobs available : Test Specialist: Automation 
+2021-06-24 03:05:52,971 INFO  [Log] the jobs available : Test Automation Engineer - Selenium 
+2021-06-24 03:13:05,372 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2021-06-24 03:13:07,422 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (69af907d068af9ad935b789552344c1e)] -> xpath: //input[@id='text-input-what' and @name = 'q']] 
+2021-06-24 03:13:07,975 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (69af907d068af9ad935b789552344c1e)] -> xpath: //input[@id='text-input-what' and @name = 'q']] 
+2021-06-24 03:13:08,124 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (69af907d068af9ad935b789552344c1e)] -> xpath: //input[@id='text-input-where']] 
+2021-06-24 03:13:08,388 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (69af907d068af9ad935b789552344c1e)] -> xpath: //input[@id='text-input-where']] 
+2021-06-24 03:13:09,059 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (69af907d068af9ad935b789552344c1e)] -> xpath: //button[contains(text(),'Find jobs') and @type='submit']] 
+2021-06-24 03:13:11,011 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (69af907d068af9ad935b789552344c1e)] -> xpath: //h1[@id='jobsInLocation']] 
+2021-06-24 03:13:11,011 INFO  [Log] Page loaded sucess 
+2021-06-24 03:13:11,315 INFO  [Log] the jobs available : Trainee testers 
+2021-06-24 03:13:11,324 INFO  [Log] the jobs available : Tester SE/SSE 
+2021-06-24 03:13:11,334 INFO  [Log] the jobs available : Hiring qa With Selenium, Uft Mainframes Testing || Bangalore 
+2021-06-24 03:13:11,342 INFO  [Log] the jobs available : Software Test Engineer 
+2021-06-24 03:13:11,351 INFO  [Log] the jobs available : IT Testing 
+2021-06-24 03:13:11,360 INFO  [Log] the jobs available : Test Analyst 
+2021-06-24 03:13:11,370 INFO  [Log] the jobs available : Associate Automation Testing Selenium 
+2021-06-24 03:13:11,380 INFO  [Log] the jobs available : C#_Selenium_Test_Automation 
+2021-06-24 03:13:11,389 INFO  [Log] the jobs available : Automation Selenium Tester Core Banking Domain 
+2021-06-24 03:13:11,399 INFO  [Log] the jobs available : Selenium + C# Testing Or C# Developer - C2H 
+2021-06-24 03:13:11,409 INFO  [Log] the jobs available : QA Analyst 3-ProdDev 
+2021-06-24 03:13:11,420 INFO  [Log] the jobs available : Associate QA-UAT Engineer 
+2021-06-24 03:13:11,432 INFO  [Log] the jobs available : QA 
+2021-06-24 03:13:11,444 INFO  [Log] the jobs available : Test Specialist: Automation 
+2021-06-24 03:13:11,456 INFO  [Log] the jobs available : Test Automation Engineer - Selenium 
+2021-06-25 18:38:00,365 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2021-06-25 18:38:02,251 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (f6340873f1be928575907d2d8849d05f)] -> xpath: //input[@id='text-input-what' and @name = 'q']] 
+2021-06-25 18:38:02,421 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (f6340873f1be928575907d2d8849d05f)] -> xpath: //input[@id='text-input-what' and @name = 'q']] 
+2021-06-25 18:38:02,482 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (f6340873f1be928575907d2d8849d05f)] -> xpath: //input[@id='text-input-where']] 
+2021-06-25 18:38:02,709 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (f6340873f1be928575907d2d8849d05f)] -> xpath: //input[@id='text-input-where']] 
+2021-06-25 18:38:03,038 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (f6340873f1be928575907d2d8849d05f)] -> xpath: //button[contains(text(),'Find jobs') and @type='submit']] 
+2021-06-25 18:38:05,485 INFO  [Log] The element is visible : [[ChromeDriver: chrome on WINDOWS (f6340873f1be928575907d2d8849d05f)] -> xpath: //h1[@id='jobsInLocation']] 
+2021-06-25 18:38:05,485 INFO  [Log] Page loaded sucess 
+2021-06-25 18:38:05,779 INFO  [Log] the jobs available : Selenium Testing 
+2021-06-25 18:38:05,787 INFO  [Log] the jobs available : Tester Midlevel 
+2021-06-25 18:38:05,797 INFO  [Log] the jobs available : Trainee testers 
+2021-06-25 18:38:05,806 INFO  [Log] the jobs available : Manual Tester - WGS 
+2021-06-25 18:38:05,817 INFO  [Log] the jobs available : Tester SE/SSE 
+2021-06-25 18:38:05,826 INFO  [Log] the jobs available : Test professional 
+2021-06-25 18:38:05,833 INFO  [Log] the jobs available : C#_Selenium_Test_Automation 
+2021-06-25 18:38:05,844 INFO  [Log] the jobs available : Associate Automation Testing Selenium 
+2021-06-25 18:38:05,850 INFO  [Log] the jobs available : IT Testing 
+2021-06-25 18:38:05,857 INFO  [Log] the jobs available : Test Analyst 
+2021-06-25 18:38:05,870 INFO  [Log] the jobs available : Software Test Engineer 
+2021-06-25 18:38:05,884 INFO  [Log] the jobs available : ACM Automation tester 
+2021-06-25 18:38:05,892 INFO  [Log] the jobs available : Selenium + C# Testing Or C# Developer - C2H 
+2021-06-25 18:38:05,899 INFO  [Log] the jobs available : Automation Selenium Tester Core Banking Domain 
+2021-06-25 18:38:05,906 INFO  [Log] the jobs available : QA 
